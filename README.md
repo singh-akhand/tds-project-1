@@ -4,7 +4,7 @@ This repository contains data about GitHub users in Seattle with over 200 follow
 
 ## Files
 
-1. `users.csv`: Contains information about 521 GitHub users in Delhi with over 200 followers
+1. `users.csv`: Contains information about 521 GitHub users in Seattle with over 200 followers
 2. `repositories.csv`: Contains information about 51116 public repositories from these users
 3. `gitscrap.py`: Python script used to collect this data
 
@@ -12,5 +12,5 @@ This repository contains data about GitHub users in Seattle with over 200 follow
 
 - Data collected using GitHub API
 - Date of collection: 2024-10-31
-- Only included users with 100+ followers
+- Only included users with 200+ followers
 - Up to 500 most recently pushed repositories per user
